@@ -1,0 +1,4 @@
+0031
+E:\Bob_Task\jiabao\appGamepad\APPInstall\app\release\bell.wav
+D:\adbfile\ddd.jpg
+192.168.1.255
